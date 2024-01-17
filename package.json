@@ -1,0 +1,14 @@
+{
+  "name": "cne",
+  "version": "1.0.0",
+  "description": "Centar neformalne edukacije web prezentacija",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass assets/scss/main.scss assets/css/main.css --watch"
+  },
+  "author": "Nenad Nikolic",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.7"
+  }
+}
